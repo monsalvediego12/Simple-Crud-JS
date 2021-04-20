@@ -3,7 +3,7 @@
 SPA 
 
 Resourses: 
-body-parser
-ejs
-express
-morgan
+- body-parser
+- ejs
+- express
+- morgan
